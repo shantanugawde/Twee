@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\159cd53a8e35e33b8b7656f4b1b676b46693d3f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff55c890cd296762bd453dc5c19c1c662cd101ed">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbfb8443b72213b176a9cea85520cbfeff300fdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_0bbebc143cb227a477963a5dd490a1fd13691725\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\0d27dc5151af0909860f6bf28ca1ff4f5c587953\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_62f205cb70dc35bf29236489b9f8b56f065127b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_a865b6e48e441a8244865d947afeca5e6add08a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_db4667f7b354f0f4f118026638be59d6480bdaa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\twitter-text-1.13.0_d03f192165fcb3a495c334fb0a0e884ca8564d8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_f50f821b458b92eb50b664e99e67ec692c745575\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\4656ec1d2b9885745d375a5cabbebeb4673a4167\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="263c1c941f603469ecbaf8745f7b2d18ae85c5c0">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_adba0c67db35ad860dd651be6dde86e0a672f126\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_6c48f723b8715271341b28c20ab5159675391628\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\d775f4c954b54e9afa61fd1c6f71cb203456942b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad6b90e6ddffa59aaa35fce8d5c2f29624ae251">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_142dc72a4eeb97f1a013cbec0c64802f15484282\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\bda0d4f747c041e467c73a9bfb3c9ea3fd8affa5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10642834c882ff8f3153c7595c460f84de2cb623\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.1\369f9aa48a629b4e92557b37326f42dc3de796e4\MPAndroidChart-v3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.1_8894eaff5f5cc94198637f9d3a84c0ccdd5bff65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta5\constraint-layout-solver-1.0.0-beta5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff0dad5e4fc720f478ce8b5f6edf76a932d9b886">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta5_9383f0ac8a4e588e8b93540b52a8547a28cf8596\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\5a1658c68c2778c94b4b87bef6e373fe45574500\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74d0bf4b86064b64fe9577eb8e7635236bfb8a5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\20004fc11e9ce005713e5381ff9e8919ef976d9b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f2d7cf76935dbcfca370da968aff3cb4bbfeb08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\8f7884472e2d8d503a5f2ed9a93feac59179b1d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_137829d67dcf4b9961a1232cca8a88f33cd40338\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d6e3d735a006f366ae0f5623d9b38044b63591e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\5b7e8420f45ea3c78dfb5648f95d94fe86312655\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f31cd6f1aa65d0c4f49ac9a3e62a80983c0d0526\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\563c43b8d0dd1cac33eb4c7846e471167f5f832e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f64da24047e613215362a2d7a46a961c9320f81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\2b8fb0c10a37aedfd85d738e722515d5161ae825\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_044deae8f446f0ccd76fe14fbc75f55563cf6ee2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\5530b1e3a5d414cecf0b5119a0535d8f9f150cad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd88a6a3dc6a0235882e2f208590826a6d363840\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\5b2947ceb0625a8bdaf2c00f633ee9d75b52aeb0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f205ba5f15b7b1d65ae41c4ae40087a1d4825fe0">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ceb8acd89ac486273b402702fbec47fb6e8e324d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\cc63cc48f84b4d9ece8ab2bf37ca25b4499e7964\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dce0f3de11781e1ee758cba483871b598c9d4931">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc086045f094f31b6a53c9183979c338c8a5510d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1657588c29f8e008918e4e30bfe4c6f0dc421730">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_65bdf95514a7f1739e08dd3f1b15a24deeeeac1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\afc7fe615c57fa8009d2b046b8ec932cd3fca070\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b37f384f2cbb221f607b52ec94ce1b90ea835fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\277c3dfc6e2fd3af61562c194634d2bfbf0e1936\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="393af63066510aacf05c7adcc3e4a3aab058b5f4">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8799764997cbac22f3f9741de2fc5f481c63cc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\89d8d7664da6ebe1dc2e38e26980358b2e74a246\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b7f4c0e08fcda486f265f0fac6a69642fcd4f37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_18e7cecf7ca4e12f989014adf09513d9d9284680\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.android\build-cache\ec3350b4222538ca793170a5e31f8d6bb5050d97\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d89068abff71100f9ac010d8482ef242dd7a26ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shantanu\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\Shantanu\Documents\Shantanu\Twee\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_16e3211f89fdee1db1a56ed36ebd98634257b85e\classes.dex" />
+    </item>
+
+</items>
